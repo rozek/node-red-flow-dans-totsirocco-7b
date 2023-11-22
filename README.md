@@ -2,7 +2,7 @@
 
 Node-RED Flows for the Dans-TotSirocco-7B AI model
 
-This repository contains a function node for [Node-RED](https://nodered.org/) which can be used to run the [PocketDoc Labs]([https://huggingface.co/stabilityai](https://huggingface.co/PocketDoc)) [Dans-TotSirocco-7B model](https://huggingface.co/PocketDoc/Dans-TotSirocco-7b/blob/main/README.md) using [llama.cpp](https://github.com/rozek/llama.cpp) within a Node-RED flow. **Inference is done on the CPU** (without requiring any special harware) and still completes within a few seconds on a reasonably powerful computer.
+This repository contains a function node for [Node-RED](https://nodered.org/) which can be used to run the [PocketDoc Labs](https://huggingface.co/PocketDoc) [Dans-TotSirocco-7B model](https://huggingface.co/PocketDoc/Dans-TotSirocco-7b/blob/main/README.md) using [llama.cpp](https://github.com/rozek/llama.cpp) within a Node-RED flow. **Inference is done on the CPU** (without requiring any special harware) and still completes within a few seconds on a reasonably powerful computer.
 
 ![Dans-TotSirocco-7B Text Completion Flow](./Dans-TotSirocco-7B-Completion-Flow.png)
 
