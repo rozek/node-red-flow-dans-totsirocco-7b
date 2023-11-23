@@ -59,7 +59,7 @@ If not already done, download the [5_K_M quantization of the Dans-TotSirocco-7B 
 
 > Nota bene: right now, the flows from this repository support the given model file only - if you prefer another one, you may simply change the model file name in the function nodes for text completion, tokenization and embeddings calculation.
 
-Now import the desired nodes and flows - if you want them all, just import file [Dans-TotSirocco-7B.json](https://raw.githubusercontent.com/rozek/node-red-flow-dans-totsirocco-7b/master/Dans-TotSirocco-7B-Flows.json).
+Now import the desired nodes and flows - if you want them all, just import file [Dans-TotSirocco-7B-Flows.json](https://raw.githubusercontent.com/rozek/node-red-flow-dans-totsirocco-7b/master/Dans-TotSirocco-7B-Flows.json).
 
 If you are new to Node-RED, [just follow the instructions from their docs](https://nodered.org/docs/user-guide/editor/workspace/import-export).
 
